@@ -2,8 +2,8 @@
 ## Introduction to Python
 This section contains notebooks generated for beginners interested in learning Python. 
 
-| Header 1 | Header 2 | Header 3 |
+| Notebook Name | Description | Notebook |
 | :--- | :---: | ---: |
-| Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 |
+| Introduction to Python (Variables and Lists) | Row 1 Col 2 | [Google Colab Notebook](https://colab.research.google.com/github/narminGhaffari/Programming_Diary/blob/main/1_Introduction%20to%20Python%20(Variables%20and%20Lists).ipynb#scrollTo=IIheYqLJr5Kok) |
 | Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 |
 
