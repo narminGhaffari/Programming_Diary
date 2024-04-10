@@ -2,7 +2,7 @@
 ## Introduction to Python
 This section contains notebooks generated for beginners interested in learning Python. 
 
-![alt text](imgs/DALLE2_Generate_PythonBeginner.webp)
+![alt text](imgs/DALLE2_Generate_PythonBeginner.png)
 
 
 | Notebook Name | Description | Notebook |
