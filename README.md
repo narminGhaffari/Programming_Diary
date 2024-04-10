@@ -1,4 +1,4 @@
-# Programming_Diary <img src="imgs/DALLE2_Generate_PythonBeginner.png" width="50" height="50">
+# Programming_Diary <img src="imgs/writing.png" width="50" height="50">
 ## Introduction to Python
 ### This section contains notebooks generated for beginners interested in learning Python. 
 
