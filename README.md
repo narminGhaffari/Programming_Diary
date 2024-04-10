@@ -18,7 +18,7 @@
 
 | Notebook Name | Description | Notebook |
 | :--- | :---: | ---: |
-| Practical Introduction to Machine Learning Concepts | This notebook provides practical exercises on how to predict patient diagnosis using multiple machine learning techniques in the Breast Cancer Wisconsin (Diagnostic) Database. | [![](imgs/colab.svg)]([https://colab.research.google.com/drive/1xc37x1XpbHd_HhnrUj25wzpTEYES8mFb?usp=sharing](https://colab.research.google.com/drive/1mxSKpMEZz8H1v3snayvqEEmZYn0OyIn0?usp=sharing))
+| Practical Introduction to Machine Learning Concepts | This notebook provides practical exercises on how to predict patient diagnosis using multiple machine learning techniques in the Breast Cancer Wisconsin (Diagnostic) Database. | [![](imgs/colab.svg)](https://colab.research.google.com/drive/1mxSKpMEZz8H1v3snayvqEEmZYn0OyIn0?usp=sharing)
 
 
 
