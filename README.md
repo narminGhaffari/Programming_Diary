@@ -2,8 +2,7 @@
 ## Introduction to Python
 ### This section contains notebooks generated for beginners interested in learning Python. 
 
-![](imgs/DALLE2_Generate_PythonBeginner.png=250x250)
-
+<img src="imgs/DALLE2_Generate_PythonBeginner.png" width="100" height="100">
 
 | Notebook Name | Description | Notebook |
 | :--- | :---: | ---: |
