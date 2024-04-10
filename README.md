@@ -18,7 +18,7 @@
 
 | Notebook Name | Description | Notebook |
 | :--- | :---: | ---: |
-| Introduction to Machine Learning Techniques | This notebook provides practical exercises on how to predict patient diagnosis using multiple machine learning techniques in the Breast Cancer Wisconsin (Diagnostic) Database. | [![](imgs/colab.svg)](https://colab.research.google.com/drive/1mxSKpMEZz8H1v3snayvqEEmZYn0OyIn0?usp=sharing)
+| Introduction to Machine Learning Techniques | This notebook provides practical exercises on how to predict patient diagnosis using multiple machine learning techniques in the Breast Cancer Wisconsin (Diagnostic) Database. | [![](imgs/colab.svg)](https://colab.research.google.com/drive/1Eyke2V8rf4iLCO86JOu4nZUl1pOZGV-V?usp=sharing)
 
 
 
