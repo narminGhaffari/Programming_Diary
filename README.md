@@ -18,7 +18,13 @@
 
 | Notebook Name | Description | Notebook |
 | :--- | :---: | ---: |
-| Introduction to Machine Learning Techniques | This notebook provides practical exercises on how to predict patient diagnosis using multiple machine learning techniques in the Breast Cancer Wisconsin (Diagnostic) Database. | [![](imgs/colab.svg)](https://colab.research.google.com/drive/1Eyke2V8rf4iLCO86JOu4nZUl1pOZGV-V?usp=sharing)
+| Introduction to Machine Learning Techniques | This notebook provides practical exercises on how to predict patient diagnosis using multiple machine learning techniques in the breast cancer Wisconsin database. | [![](imgs/colab.svg)](https://colab.research.google.com/drive/1Eyke2V8rf4iLCO86JOu4nZUl1pOZGV-V?usp=sharing)
 
+## Deep Learning
 
+<img src="imgs/DALLE2_Generated_DeepLearning.png" width="500" height="500">
+
+| Notebook Name | Description | Notebook |
+| :--- | :---: | ---: |
+| Image Classification using Deep Learning | This notebook provides practical exercises on how to use deep leaarning techniques for classification of different grades of Ulcerative colitis.| [![](imgs/colab.svg)](https://colab.research.google.com/drive/1LN_5343-cheXG4Bbl1hLQho02Dkqfnxr?usp=sharing)
 
