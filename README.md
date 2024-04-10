@@ -13,6 +13,9 @@
 | Introduction to Python (Data preprocessing and Visualisation) | This notebook offers a basic guide on how to process data and create visualizations using Python, making it an invaluable resource for beginners in data science. | [![](imgs/colab.svg)](https://colab.research.google.com/drive/1d3HpSD7P17f1q-nNSwB9obBf2pRotwbn?usp=sharing)
 
 ## Machine Learning
+
+<img src="imgs/DALLE2_Generated_MachineLearning.png" width="500" height="500">
+
 | Notebook Name | Description | Notebook |
 | :--- | :---: | ---: |
 | Practical Introduction to Machine Learning Concepts | This notebook provides practical exercises on how to predict patient diagnosis using multiple machine learning techniques in the Breast Cancer Wisconsin (Diagnostic) Database. | [![](imgs/colab.svg)]([https://colab.research.google.com/drive/1xc37x1XpbHd_HhnrUj25wzpTEYES8mFb?usp=sharing](https://colab.research.google.com/drive/1mxSKpMEZz8H1v3snayvqEEmZYn0OyIn0?usp=sharing))
