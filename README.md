@@ -1,4 +1,4 @@
-# Programming_Diary <img src="imgs/writing.png" width="50" height="50">
+#  <img src="imgs/writing.png" width="40" height="40"> Programming_Diary
 ## Introduction to Python
 ### This section contains notebooks generated for beginners interested in learning Python. 
 
