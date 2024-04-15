@@ -11,6 +11,8 @@
 | Introduction to Python (Introduction to NumPy) | Numpy is one of the most useful packages in python. The exercises in this notebook will allow you to practice the functions from this package in a variety of applications. | [![](imgs/colab.svg)](https://colab.research.google.com/drive/1G7Rfw_rEziq7A83seukxQ2Taw1Cp6w1q?usp=sharing)
 | Introduction to Python (Introduction to pandas) | With this notebook, you will have the opportunity to familiarize yourself with the panda package in Python and read, edit, and save all the tabular data. | [![](imgs/colab.svg)](https://colab.research.google.com/drive/1G7Rfw_rEziq7A83seukxQ2Taw1Cp6w1q?usp=sharing)
 | Introduction to Python (Data preprocessing and Visualisation) | This notebook offers a basic guide on how to process data and create visualizations using Python, making it an invaluable resource for beginners in data science. | [![](imgs/colab.svg)](https://colab.research.google.com/drive/1d3HpSD7P17f1q-nNSwB9obBf2pRotwbn?usp=sharing)
+| Introduction to Python (General) | This notebook contains exercises using multiple packages and their various functions that can be used as a self-assessment for Python beginners. | [![](imgs/colab.svg)](https://colab.research.google.com/drive/1hHaPlcQforibXmB807WPAUMpwe1Ls6c6?usp=sharing)
+
 
 ## Machine Learning
 ### This section includes a variety of notebooks, each offering different exercises that lead you through all the machine learning techniques with practical examples and datasets.
