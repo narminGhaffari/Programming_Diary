@@ -28,7 +28,7 @@
 
 | Notebook Name | Description | Notebook |
 | :--- | :---: | ---: |
-| DL-Based Classification of textures in colorectal cancer histology | This notebook provides practical exercises on how to use deep leaarning techniques for classification of textures in colorectal cancer histology. More details about this open-source dataset can be found in this [Link](https://zenodo.org/records/53169)| [![](imgs/colab.svg)](https://colab.research.google.com/drive/15A9fJ9LQ-y-DXJXEKoGKK-Ci4t0qcb-_?usp=sharing)
+| DL-Based Classification of textures in colorectal cancer histology | This notebook provides practical exercises on how to use deep leaarning techniques for classification of textures in colorectal cancer histology. More details about this open-source dataset can be found in this [Link](https://zenodo.org/records/53169).| [![](imgs/colab.svg)](https://colab.research.google.com/drive/15A9fJ9LQ-y-DXJXEKoGKK-Ci4t0qcb-_?usp=sharing)
 | DL-Based Classification of different grades of Ulcerative colitis  | This notebook provides practical exercises on how to use deep leaarning techniques for classification of different grades of Ulcerative colitis.| [![](imgs/colab.svg)](https://colab.research.google.com/drive/1LN_5343-cheXG4Bbl1hLQho02Dkqfnxr?usp=sharing)
 
 
