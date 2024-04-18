@@ -1,4 +1,5 @@
 #  <img src="imgs/writing.png" width="40" height="40"> Programming_Diary
+This repository contains the google colab notebooks I have collected for various education courses I have organized in KatherLab. 
 ## Introduction to Python
 ### This section contains notebooks generated for beginners interested in learning Python. 
 
