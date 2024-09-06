@@ -22,6 +22,7 @@ This repository contains the google colab notebooks I have collected for various
 | Notebook Name | Description | Notebook |
 | :--- | :---: | ---: |
 | Introduction to Machine Learning Techniques | This notebook provides practical exercises on how to predict patient diagnosis using multiple machine learning techniques in the breast cancer Wisconsin database. | [![](imgs/colab.svg)](https://colab.research.google.com/drive/1Eyke2V8rf4iLCO86JOu4nZUl1pOZGV-V?usp=sharing)
+| Introducing Machine Learning Techniques for Regression | Using an interesting dataset, this notebook demonstrates most of the commonly used machine learning techniques for predicting continuous values based on specified features (regression). | [![](imgs/colab.svg)](https://colab.research.google.com/drive/16GRtOSvgs9b9T3g7gtAFtHV2ImBLeY3o#scrollTo=vWff_q0EYp7u)
 
 ## Deep Learning
 ### This section provides a range of notebooks designed to help you train your initial deep learning model and apply it to interesting medical and non-medical datasets. Each notebook includes a variety of evaluation metrics to efficiently assess the performance of your model.
